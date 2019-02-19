@@ -1,0 +1,45 @@
+This is ApacheBench, Version 2.3 <$Revision: 1757674 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking www.magicleap.com (be patient)
+
+
+Server Software:        CloudFront
+Server Hostname:        www.magicleap.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,2048,128
+TLS Server Name:        www.magicleap.com
+
+Document Path:          /
+Document Length:        556 bytes
+
+Concurrency Level:      10
+Time taken for tests:   12.639 seconds
+Complete requests:      1000
+Failed requests:        0
+Non-2xx responses:      1000
+Total transferred:      880000 bytes
+HTML transferred:       556000 bytes
+Requests per second:    79.12 [#/sec] (mean)
+Time per request:       126.385 [ms] (mean)
+Time per request:       12.639 [ms] (mean, across all concurrent requests)
+Transfer rate:          68.00 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       39  105 399.1     49    3057
+Processing:    10   17  23.4     15     245
+Waiting:       10   17  23.4     15     245
+Total:         51  122 399.4     65    3075
+
+Percentage of the requests served within a certain time (ms)
+  50%     65
+  66%     67
+  75%     68
+  80%     69
+  90%     72
+  95%     79
+  98%    298
+  99%   3063
+ 100%   3075 (longest request)

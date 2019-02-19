@@ -1,5 +1,5 @@
 {
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\bash.exe",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\bash.exe",
     "window.zoomLevel": 0,
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
