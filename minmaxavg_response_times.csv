@@ -1,0 +1,3 @@
+#TYPE Microsoft.PowerShell.Commands.GenericMeasureInfo
+"Count","Average","Sum","Maximum","Minimum","Property"
+"1000","162.719",,"1030.5","138.6",
