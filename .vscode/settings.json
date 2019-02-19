@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\bash.exe",
+    "window.zoomLevel": 0,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "explorer.confirmDelete": false
+}
+
+    
