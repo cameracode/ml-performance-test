@@ -18,9 +18,9 @@
 
 ### Pre-requiestes for Bash
 - Need Apache Benchmark [apche2-utils](https://packages.debian.org/stretch/apache2-utils) 
-$ sudo apt-get install -y apache2-utils
-$ ab -h
-$ ./Test3_apache_benchmark.sh
+- $ sudo apt-get install -y apache2-utils
+- $ ab -h
+- $ ./Test3_apache_benchmark.sh
 
 ### Results
 - PowerShell
